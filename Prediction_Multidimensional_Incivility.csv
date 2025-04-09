@@ -1,0 +1,5 @@
+post_id,text,label_IMP,prob_IMP_1,label_PHAVPR,prob_PHAVPR_1,label_HSST,prob_HSST_1,label_THREAT,prob_THREAT_1
+1,O Lula não consegue dizer duas frases sem mentir — como esse palhaço ainda está na disputa?,1,0.7612528540471049,0,9.451288108229358e-05,0,0.28660843442725237,0,0.18900803037243538
+2,Tá na hora de limpar Brasília com fogo — queima tudo!,1,0.5542309139741812,1,0.8865663658904925,0,0.27836477799410597,0,0.26893227374358175
+3,Esses nordestinos continuam votando no Lula porque são preguiçosos e sem educação.,1,0.6952059111821668,0,0.0009328524438845006,1,0.7546158968425714,0,0.42216159166733186
+4,"Se o Bolsonaro não vencer, é porque a eleição foi claramente fraudada.",1,0.7149609786886824,0,0.019965694056096606,0,0.33842098810917143,1,0.9237049837376994
