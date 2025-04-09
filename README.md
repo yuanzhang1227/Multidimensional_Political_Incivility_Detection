@@ -19,7 +19,7 @@ This repository provides machine learning classifiers for detecting **four dimen
 
 Our classifier was developed using an active learning strategy. The annotation pipeline addresses class imbalance and data scarcity through:
 
-![Annotation Pipeline](assets/pipeline.png)  
+![Annotation Pipeline](pipeline.png)  
 *Active learning workflow for classifier training*
 
 Full methodological details are available in our ICWSM 2025 paper: `Quantifying the Spread of Online Incivility in Brazilian Politics` (coming soon).
@@ -38,7 +38,7 @@ Full methodological details are available in our ICWSM 2025 paper: `Quantifying 
    ```bash
    pip install -r requirements.txt
 3. **Run the detection script**:
-   python example_run.py --input example_input.csv
+   python `example_run`.py --input `example_input`.csv
    Replace `example_input.csv` with the path to your own data file.
 4. **Output file**:
 The script generates an output file named `Prediction_Multidimensional_Incivility.csv`, which includes:
