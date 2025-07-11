@@ -22,7 +22,10 @@ Our classifier was developed using an active learning strategy. The iterative an
 ![Annotation Pipeline](pipeline.png)  
 *Active Learning Workflow for Supplementing Positive Samples*
 
-Full methodological details are available in our ICWSM 2025 paper: `Quantifying the Spread of Online Incivility in Brazilian Politics` (coming soon).
+More details are provided in our ICWSM 2025 paper  
+**Zhang, Y., Amsler, M., Herrero, L. C., Esser, F., & Bovet, A. (2025, June). Quantifying the Spread of Online Incivility in Brazilian Politics. In Proceedings of the International AAAI Conference on Web and Social Media (Vol. 19, pp. 2241–2259).**
+
+[Read the paper (ICWSM 2025 Proceedings)](https://ojs.aaai.org/index.php/ICWSM/article/view/35931)
 
 > The Brazilian classifier is a collaborative effort as part of a Swiss National Science Foundation (SNSF) project: `From Uncivil Disagreement to Political Unrest? A Cross-Platform & Cross-National Analysis of the Offline Consequences of Online Incivility`. Classifiers for other countries and languages will be updated in the future. 
 
